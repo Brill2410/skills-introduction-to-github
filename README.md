@@ -11,7 +11,9 @@
 
 _Get started using GitHub in less than an hour._
 
+</header>
 
+<body>
 
 <!--
 
@@ -78,7 +80,7 @@ Check out these resources to learn more or get involved:
 - [Read the GitHub Getting Started docs](https://docs.github.com/en/get-started).
 - To find projects to contribute to, check out [GitHub Explore](https://github.com/explore).
 
-</header>
+</body>
 
 <footer>
 
